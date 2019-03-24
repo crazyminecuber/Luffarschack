@@ -1,0 +1,54 @@
+U:\Programmering\C#\RandomAI1\RandomAI1\bin\Debug\RandomAI1.exe.config
+U:\Programmering\C#\RandomAI1\RandomAI1\obj\Debug\RandomAI1.Form1.resources
+U:\Programmering\C#\RandomAI1\RandomAI1\obj\Debug\RandomAI1.Properties.Resources.resources
+U:\Programmering\C#\RandomAI1\RandomAI1\obj\Debug\RandomAI1.csproj.GenerateResource.Cache
+U:\Programmering\C#\RandomAI1\RandomAI1\bin\Debug\RandomAI1.exe
+U:\Programmering\C#\RandomAI1\RandomAI1\bin\Debug\RandomAI1.pdb
+U:\Programmering\C#\RandomAI1\RandomAI1\bin\Debug\OPLibrary.dll
+U:\Programmering\C#\RandomAI1\RandomAI1\bin\Debug\OPLibrary.pdb
+U:\Programmering\C#\RandomAI1\RandomAI1\obj\Debug\RandomAI1.csprojResolveAssemblyReference.cache
+U:\Programmering\C#\RandomAI1\RandomAI1\obj\Debug\RandomAI1.exe
+U:\Programmering\C#\RandomAI1\RandomAI1\obj\Debug\RandomAI1.pdb
+C:\Users\Sune\Documents\Visual Studio 2015\Projects\RandomAI1\RandomAI1\bin\Debug\RandomAI1.exe.config
+C:\Users\Sune\Documents\Visual Studio 2015\Projects\RandomAI1\RandomAI1\obj\Debug\RandomAI1.exe
+C:\Users\Sune\Documents\Visual Studio 2015\Projects\RandomAI1\RandomAI1\obj\Debug\RandomAI1.pdb
+C:\Users\Sune\Documents\Visual Studio 2015\Projects\RandomAI1\RandomAI1\bin\Debug\RandomAI1.exe
+C:\Users\Sune\Documents\Visual Studio 2015\Projects\RandomAI1\RandomAI1\bin\Debug\RandomAI1.pdb
+C:\Users\Sune\Documents\Visual Studio 2015\Projects\RandomAI1\RandomAI1\bin\Debug\OPLibrary.pdb
+C:\Users\Sune\Documents\Visual Studio 2015\Projects\RandomAI1\RandomAI1\obj\Debug\RandomAI1.csprojResolveAssemblyReference.cache
+C:\Users\Sune\Documents\Visual Studio 2015\Projects\RandomAI1\RandomAI1\obj\Debug\RandomAI1.Form1.resources
+C:\Users\Sune\Documents\Visual Studio 2015\Projects\RandomAI1\RandomAI1\obj\Debug\RandomAI1.Properties.Resources.resources
+C:\Users\Sune\Documents\Visual Studio 2015\Projects\RandomAI1\RandomAI1\obj\Debug\RandomAI1.csproj.GenerateResource.Cache
+P:\Dokument\Programering\RandomAI1\RandomAI1\bin\Debug\RandomAI1.exe.config
+P:\Dokument\Programering\RandomAI1\RandomAI1\obj\Debug\RandomAI1.exe
+P:\Dokument\Programering\RandomAI1\RandomAI1\obj\Debug\RandomAI1.pdb
+P:\Dokument\Programering\RandomAI1\RandomAI1\bin\Debug\RandomAI1.exe
+P:\Dokument\Programering\RandomAI1\RandomAI1\bin\Debug\RandomAI1.pdb
+P:\Dokument\Programering\RandomAI1\RandomAI1\bin\Debug\OPLibrary.dll
+P:\Dokument\Programering\RandomAI1\RandomAI1\bin\Debug\OPLibrary.pdb
+P:\Dokument\Programering\RandomAI1\RandomAI1\obj\Debug\RandomAI1.csprojResolveAssemblyReference.cache
+P:\Dokument\Programering\RandomAI1\RandomAI1\obj\Debug\RandomAI1.Form1.resources
+P:\Dokument\Programering\RandomAI1\RandomAI1\obj\Debug\RandomAI1.Properties.Resources.resources
+P:\Dokument\Programering\RandomAI1\RandomAI1\obj\Debug\RandomAI1.csproj.GenerateResource.Cache
+P:\Dokument\Programering\C#\RandomAI1\RandomAI1\bin\Debug\RandomAI1.exe.config
+P:\Dokument\Programering\C#\RandomAI1\RandomAI1\bin\Debug\RandomAI1.exe
+P:\Dokument\Programering\C#\RandomAI1\RandomAI1\bin\Debug\RandomAI1.pdb
+P:\Dokument\Programering\C#\RandomAI1\RandomAI1\bin\Debug\OPLibrary.pdb
+P:\Dokument\Programering\C#\RandomAI1\RandomAI1\obj\Debug\RandomAI1.csprojResolveAssemblyReference.cache
+P:\Dokument\Programering\C#\RandomAI1\RandomAI1\obj\Debug\RandomAI1.Form1.resources
+P:\Dokument\Programering\C#\RandomAI1\RandomAI1\obj\Debug\RandomAI1.Properties.Resources.resources
+P:\Dokument\Programering\C#\RandomAI1\RandomAI1\obj\Debug\RandomAI1.csproj.GenerateResource.Cache
+P:\Dokument\Programering\C#\RandomAI1\RandomAI1\obj\Debug\RandomAI1.exe
+P:\Dokument\Programering\C#\RandomAI1\RandomAI1\obj\Debug\RandomAI1.pdb
+U:\Programmering\C#\Progarmering 1\RandomAI1\RandomAI1\bin\Debug\RandomAI1.exe.config
+U:\Programmering\C#\Progarmering 1\RandomAI1\RandomAI1\obj\Debug\RandomAI1.exe
+U:\Programmering\C#\Progarmering 1\RandomAI1\RandomAI1\obj\Debug\RandomAI1.pdb
+U:\Programmering\C#\Progarmering 1\RandomAI1\RandomAI1\obj\Debug\RandomAI1.Form1.resources
+U:\Programmering\C#\Progarmering 1\RandomAI1\RandomAI1\obj\Debug\RandomAI1.Properties.Resources.resources
+U:\Programmering\C#\Progarmering 1\RandomAI1\RandomAI1\obj\Debug\RandomAI1.csproj.GenerateResource.Cache
+U:\Programmering\C#\Progarmering 1\RandomAI1\RandomAI1\bin\Debug\RandomAI1.exe
+U:\Programmering\C#\Progarmering 1\RandomAI1\RandomAI1\bin\Debug\RandomAI1.pdb
+U:\Programmering\C#\Progarmering 1\RandomAI1\RandomAI1\bin\Debug\OPLibrary.dll
+U:\Programmering\C#\Progarmering 1\RandomAI1\RandomAI1\bin\Debug\OPLibrary.pdb
+U:\Programmering\C#\Progarmering 1\RandomAI1\RandomAI1\obj\Debug\RandomAI1.csprojResolveAssemblyReference.cache
+P:\Dokument\Programering\C#\RandomAI1\RandomAI1\bin\Debug\OPLibrary.dll
