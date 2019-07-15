@@ -1,0 +1,22 @@
+P:\Dokument\Programering\OPLibrary\OPLibrary\obj\Debug\OPLibrary.csprojResolveAssemblyReference.cache
+P:\Dokument\Programering\OPLibrary\OPLibrary\bin\Debug\OPLibrary.pdb
+P:\Dokument\Programering\OPLibrary\OPLibrary\obj\Debug\OPLibrary.dll
+P:\Dokument\Programering\OPLibrary\OPLibrary\obj\Debug\OPLibrary.pdb
+U:\Programmering\C#\OPLibrary\OPLibrary\bin\Debug\OPLibrary.pdb
+U:\Programmering\C#\OPLibrary\OPLibrary\obj\Debug\OPLibrary.dll
+U:\Programmering\C#\OPLibrary\OPLibrary\obj\Debug\OPLibrary.pdb
+U:\Programmering\C#\OPLibrary\OPLibrary\obj\Debug\OPLibrary.csprojResolveAssemblyReference.cache
+P:\Dokument\Programering\C#\OPLibrary\OPLibrary\bin\Debug\OPLibrary.pdb
+P:\Dokument\Programering\C#\OPLibrary\OPLibrary\obj\Debug\OPLibrary.dll
+P:\Dokument\Programering\C#\OPLibrary\OPLibrary\obj\Debug\OPLibrary.pdb
+P:\Dokument\Programering\C#\OPLibrary\OPLibrary\obj\Debug\OPLibrary.csprojResolveAssemblyReference.cache
+P:\Överföringar till skola\OPLibrary\OPLibrary\bin\Debug\OPLibrary.pdb
+P:\Överföringar till skola\OPLibrary\OPLibrary\obj\Debug\OPLibrary.csprojResolveAssemblyReference.cache
+P:\Överföringar till skola\OPLibrary\OPLibrary\obj\Debug\OPLibrary.dll
+P:\Överföringar till skola\OPLibrary\OPLibrary\obj\Debug\OPLibrary.pdb
+E:\Överföringar till skola\OPLibrary\OPLibrary\bin\Debug\OPLibrary.pdb
+E:\Överföringar till skola\OPLibrary\OPLibrary\obj\Debug\OPLibrary.csprojResolveAssemblyReference.cache
+E:\Överföringar till skola\OPLibrary\OPLibrary\obj\Debug\OPLibrary.csproj.CoreCompileInputs.cache
+E:\Överföringar till skola\OPLibrary\OPLibrary\obj\Debug\OPLibrary.csproj.CopyComplete
+E:\Överföringar till skola\OPLibrary\OPLibrary\obj\Debug\OPLibrary.dll
+E:\Överföringar till skola\OPLibrary\OPLibrary\obj\Debug\OPLibrary.pdb
